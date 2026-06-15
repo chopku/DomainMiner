@@ -1,0 +1,16 @@
+# Временные папки с конфигурациями доменов и маршрутами
+domain_list/
+resolved/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Настройки IDE (VS Code, PyCharm и т.д.)
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/

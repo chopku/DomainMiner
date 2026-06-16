@@ -1,9 +1,3 @@
-ip route 74.125.205.100 255.255.255.255 aistudio.google.com
-ip route 74.125.205.101 255.255.255.255 aistudio.google.com
-ip route 74.125.205.102 255.255.255.255 aistudio.google.com
-ip route 74.125.205.113 255.255.255.255 aistudio.google.com
-ip route 74.125.205.138 255.255.255.255 aistudio.google.com
-ip route 74.125.205.139 255.255.255.255 aistudio.google.com
 ip route 142.251.150.1 255.255.255.255 proactivebackend-pa.googleapis.com
 ip route 142.251.150.2 255.255.255.255 bard.google.com
 ip route 142.251.151.1 255.255.255.255 proactivebackend-pa.googleapis.com
@@ -20,6 +14,12 @@ ip route 142.251.156.1 255.255.255.255 proactivebackend-pa.googleapis.com
 ip route 142.251.156.2 255.255.255.255 bard.google.com
 ip route 142.251.157.1 255.255.255.255 proactivebackend-pa.googleapis.com
 ip route 142.251.157.2 255.255.255.255 bard.google.com
+ip route 172.253.130.100 255.255.255.255 aistudio.google.com
+ip route 172.253.130.101 255.255.255.255 aistudio.google.com
+ip route 172.253.130.102 255.255.255.255 aistudio.google.com
+ip route 172.253.130.113 255.255.255.255 aistudio.google.com
+ip route 172.253.130.138 255.255.255.255 aistudio.google.com
+ip route 172.253.130.139 255.255.255.255 aistudio.google.com
 ip route 173.194.221.95 255.255.255.255 alkalicore-pa.clients6.google.com
 ip route 173.194.222.100 255.255.255.255 makersuite.google.com
 ip route 173.194.222.101 255.255.255.255 makersuite.google.com

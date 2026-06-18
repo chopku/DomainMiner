@@ -1,4 +1,4 @@
-ip route 142.251.143.138 255.255.255.255 alkalicore-pa.clients6.google.com
+ip route 142.251.143.138 255.255.255.255 alkalimakersuite-pa.clients6.google.com
 ip route 142.251.150.1 255.255.255.255 proactivebackend-pa.googleapis.com
 ip route 142.251.150.2 255.255.255.255 bard.google.com
 ip route 142.251.151.1 255.255.255.255 proactivebackend-pa.googleapis.com
@@ -15,9 +15,10 @@ ip route 142.251.156.1 255.255.255.255 proactivebackend-pa.googleapis.com
 ip route 142.251.156.2 255.255.255.255 bard.google.com
 ip route 142.251.157.1 255.255.255.255 proactivebackend-pa.googleapis.com
 ip route 142.251.157.2 255.255.255.255 bard.google.com
-ip route 192.178.25.14 255.255.255.255 ai.google.dev
-ip route 216.58.201.206 255.255.255.255 makersuite.google.com
-ip route 216.58.201.234 255.255.255.255 alkalimakersuite-pa.clients6.google.com
+ip route 172.217.20.170 255.255.255.255 alkalicore-pa.clients6.google.com
+ip route 172.217.20.174 255.255.255.255 aistudio.google.com
+ip route 216.58.201.206 255.255.255.255 ai.google.dev
+ip route 216.58.201.238 255.255.255.255 makersuite.google.com
 ip route 216.239.32.21 255.255.255.255 deepmind.com
 ip route 216.239.32.29 255.255.255.255 generativeai.google
 ip route 216.239.32.223 255.255.255.255 geller-pa.googleapis.com

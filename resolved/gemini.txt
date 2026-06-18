@@ -1,3 +1,4 @@
+ip route 142.251.38.110 255.255.255.255 ai.google.dev
 ip route 142.251.150.1 255.255.255.255 proactivebackend-pa.googleapis.com
 ip route 142.251.150.2 255.255.255.255 bard.google.com
 ip route 142.251.151.1 255.255.255.255 proactivebackend-pa.googleapis.com

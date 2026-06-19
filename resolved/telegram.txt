@@ -8,6 +8,7 @@ ip route 44.232.173.249 255.255.255.255 telegram.ai
 ip route 45.130.41.123 255.255.255.255 telegram.team
 ip route 52.33.207.7 255.255.255.255 telegram.io
 ip route 52.40.42.113 255.255.255.255 telegram.ai
+ip route 62.0.58.94 255.255.255.255 telegram.services
 ip route 62.122.170.171 255.255.255.255 telegram.ru
 ip route 64.190.63.222 255.255.255.255 telegram.de
 ip route 65.49.214.20 255.255.255.255 telegram.biz
@@ -16,7 +17,6 @@ ip route 76.223.54.146 255.255.255.255 teleg.xyz
 ip route 79.170.40.4 255.255.255.255 telegram.co
 ip route 95.161.64.99 255.255.255.255 tx.me
 ip route 95.161.64.100 255.255.255.255 telega.one
-ip route 95.216.186.40 255.255.255.255 telegram.services
 ip route 103.45.244.131 255.255.255.255 telegram.solutions
 ip route 103.224.212.210 255.255.255.255 telegramdownload.com
 ip route 104.21.66.37 255.255.255.255 telegramapp.org

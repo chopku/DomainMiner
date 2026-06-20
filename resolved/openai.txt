@@ -1,5 +1,7 @@
-ip route 8.6.112.0 255.255.255.255 chatgpt.com
-ip route 8.47.69.0 255.255.255.255 chatgpt.com
+ip route 8.6.112.0 255.255.255.255 files.oaiusercontent.com
+ip route 8.6.112.8 255.255.255.255 chatgpt.com
+ip route 8.47.69.0 255.255.255.255 files.oaiusercontent.com
+ip route 8.47.69.8 255.255.255.255 chatgpt.com
 ip route 104.18.33.45 255.255.255.255 openai.com
 ip route 104.18.37.228 255.255.255.255 chat.openai.com
 ip route 104.18.41.241 255.255.255.255 auth.openai.com

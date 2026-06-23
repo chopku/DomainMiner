@@ -20,15 +20,13 @@ ip route 95.161.64.100 255.255.255.255 telega.one
 ip route 95.216.186.40 255.255.255.255 telegram.services
 ip route 103.45.244.131 255.255.255.255 telegram.solutions
 ip route 103.224.212.210 255.255.255.255 telegramdownload.com
-ip route 104.20.26.203 255.255.255.255 fragment.com
 ip route 104.21.66.37 255.255.255.255 telegramapp.org
 ip route 104.21.68.64 255.255.255.255 telegram.fr
 ip route 104.196.2.43 255.255.255.255 tg.org
 ip route 144.31.5.79 255.255.255.255 telegram.cloud
+ip route 146.75.118.62 255.255.255.255 telegram.com
 ip route 149.154.164.13 255.255.255.255 telegra.ph
 ip route 149.154.167.99 255.255.255.255 t.me
-ip route 151.101.190.62 255.255.255.255 telegram.com
-ip route 172.66.170.24 255.255.255.255 fragment.com
 ip route 172.67.155.218 255.255.255.255 telegramapp.org
 ip route 172.67.191.37 255.255.255.255 telegram.fr
 ip route 185.182.56.222 255.255.255.255 telegram.info

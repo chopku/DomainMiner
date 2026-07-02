@@ -1,1 +1,1 @@
-ip route 151.101.7.42 255.255.255.255 www.spotify.com
+ip route 199.232.175.42 255.255.255.255 www.spotify.com

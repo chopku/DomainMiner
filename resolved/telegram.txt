@@ -1,3 +1,9 @@
-ip route 95.161.64.100 255.255.255.0 telega.one
-ip route 149.154.164.13 255.255.255.0 telegra.ph
-ip route 149.154.167.99 255.255.255.0 telegram.org
+route ADD 91.108.56.0 MASK 255.255.252.0 0.0.0.0 :: rem telegram
+route ADD 91.108.4.0 MASK 255.255.252.0 0.0.0.0 :: rem telegram
+route ADD 91.108.8.0 MASK 255.255.252.0 0.0.0.0 :: rem telegram
+route ADD 91.108.16.0 MASK 255.255.252.0 0.0.0.0 :: rem telegram
+route ADD 91.108.12.0 MASK 255.255.252.0 0.0.0.0 :: rem telegram
+route ADD 149.154.160.0 MASK 255.255.240.0 0.0.0.0 :: rem telegram
+route ADD 91.105.192.0 MASK 255.255.254.0 0.0.0.0 :: rem telegram
+route ADD 91.108.20.0 MASK 255.255.252.0 0.0.0.0 :: rem telegram
+route ADD 185.76.151.0 MASK 255.255.255.0 0.0.0.0 :: rem telegram

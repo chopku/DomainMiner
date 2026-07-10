@@ -1,3 +1,3 @@
+ip route 95.161.64.100 255.255.255.0 telega.one
 ip route 149.154.164.13 255.255.255.0 telegra.ph
-ip route 149.154.166.110 255.255.255.0 api.telegram.org
 ip route 149.154.167.99 255.255.255.0 telegram.org
